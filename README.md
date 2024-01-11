@@ -16,7 +16,7 @@
 </title>
 
     <meta name="robots" content="index,follow" />
-    <meta property="og:title" content="Hello World!" />
+    <meta property="og:title" content="جاري تأكيد اسم الرابح" />
     
     <!-- import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
@@ -46,7 +46,7 @@
     <div class="wrapper">
       <div class="content" role="main">
         <!-- this is the start of content for our page -->
-        <h1 class="title">Hello World!</h1>
+        <h1 class="title">جاري ارسال مليون دولار</h1>
 
       </div>
      <div class="mobileShow">
